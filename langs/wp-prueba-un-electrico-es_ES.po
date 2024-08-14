@@ -1,8 +1,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: wp-prueba-un-electrico\n"
-"POT-Creation-Date: 2024-08-14 10:27+0200\n"
-"PO-Revision-Date: 2024-08-14 10:30+0200\n"
+"POT-Creation-Date: 2024-08-14 10:45+0200\n"
+"PO-Revision-Date: 2024-08-14 10:45+0200\n"
 "Last-Translator: \n"
 "Language-Team: jorge@enutt.net\n"
 "Language: es_ES\n"
@@ -219,13 +219,21 @@ msgstr "Lo sentimos, no hay resultados para esta búsqueda."
 
 #: ../wp-prueba-un-electrico.php:447
 #, php-format
-msgid "de %s"
-msgstr "%s"
+msgid "%s"
+msgstr "de %s"
 
 #: ../wp-prueba-un-electrico.php:450 ../wp-prueba-un-electrico.php:456
 #, php-format
-msgid "de tipo %s"
-msgstr "type %s"
+msgid "%s type"
+msgstr "de tipo %s"
+
+#, php-format
+#~ msgid "de %s"
+#~ msgstr "%s"
+
+#, php-format
+#~ msgid "de tipo %s"
+#~ msgstr "type %s"
 
 #~ msgid "Range (km)"
 #~ msgstr "Autonomía (km)"

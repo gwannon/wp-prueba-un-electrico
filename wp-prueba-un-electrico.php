@@ -444,16 +444,16 @@ function  wp_prueba_un_electrico_filter_wpseo_title($title) {
     $filter1 = get_query_var('filter1');
     $filter2 = get_query_var('filter2');
     if($filter1 != "" && term_exists($filter1, 'brand')) {
-      $title = str_replace("[marca]", sprintf(__("de %s", "wp-prueba-un-electrico"), get_term_by('slug', $filter1, 'brand')->name), $title);
+      $title = str_replace("[marca]", sprintf(__("%s", "wp-prueba-un-electrico"), get_term_by('slug', $filter1, 'brand')->name), $title);
     }
     else if($filter1 != "" && term_exists($filter1, 'cartype')) {
-      $title = str_replace("[tipo]", sprintf(__("de tipo %s", "wp-prueba-un-electrico"), get_term_by('slug', $filter1, 'cartype')->name), $title);
+      $title = str_replace("[tipo]", sprintf(__("%s type", "wp-prueba-un-electrico"), get_term_by('slug', $filter1, 'cartype')->name), $title);
       $title = str_replace("[marca]", "", $title);
     } else {
       $title = str_replace("[marca]", "", $title);
     } 
     if($filter2 != "" && term_exists($filter2, 'cartype')) {
-      $title = str_replace("[tipo]", sprintf(__("de tipo %s", "wp-prueba-un-electrico"), get_term_by('slug', $filter2, 'cartype')->name), $title);
+      $title = str_replace("[tipo]", sprintf(__("%s type", "wp-prueba-un-electrico"), get_term_by('slug', $filter2, 'cartype')->name), $title);
     } else {
       $title = str_replace("[tipo]", "", $title);
     }
