@@ -1,2 +1,2 @@
 # wp-prueba-un-electrico
-Plugin de de WordPress para gestionar fichas de coches eléctricos.
+Plugin de de WordPress para pruebaunelectrico.es para gestionar fichas de coches eléctricos.

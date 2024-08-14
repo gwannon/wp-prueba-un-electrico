@@ -1,0 +1,237 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: wp-prueba-un-electrico\n"
+"POT-Creation-Date: 2024-08-14 10:27+0200\n"
+"PO-Revision-Date: 2024-08-14 10:30+0200\n"
+"Last-Translator: \n"
+"Language-Team: jorge@enutt.net\n"
+"Language: es_ES\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 3.0.1\n"
+"X-Poedit-KeywordsList: _;_e;__\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-SearchPath-0: ..\n"
+
+#: ../lib/car.php:11 ../lib/car.php:22
+msgid "Cars"
+msgstr "Coches"
+
+#: ../lib/car.php:12
+msgid "car"
+msgstr "coche"
+
+#: ../lib/car.php:13
+msgid "Add new"
+msgstr "Añadir nuevo"
+
+#: ../lib/car.php:14 ../lib/car.php:26
+msgid "Add new car"
+msgstr "Añadir nuevo coche"
+
+#: ../lib/car.php:15
+msgid "Edit car"
+msgstr "Editar coche"
+
+#: ../lib/car.php:16
+msgid "New car"
+msgstr "Nuevo coche"
+
+#: ../lib/car.php:17
+msgid "All cars"
+msgstr "Todos los coches"
+
+#: ../lib/car.php:18
+msgid "View car"
+msgstr "Ver coche"
+
+#: ../lib/car.php:19
+msgid "Search car"
+msgstr "Buscar coche"
+
+#: ../lib/car.php:20
+msgid "Car not found"
+msgstr "Coche no encontrado"
+
+#: ../lib/car.php:21
+msgid "Car not found in trash bin"
+msgstr "Coche no encontrado en la papelera"
+
+#: ../lib/car.php:44 ../lib/car.php:54
+msgid "Brands"
+msgstr "Marcas"
+
+#: ../lib/car.php:45 ../lib/car.php:177
+msgid "Brand"
+msgstr "Marca"
+
+#: ../lib/car.php:46
+msgid "Search brand"
+msgstr "Buscar marca"
+
+#: ../lib/car.php:47
+msgid "All brands"
+msgstr "Todas las marcas"
+
+#: ../lib/car.php:48 ../lib/car.php:49
+msgid "Parent brand"
+msgstr "Marca pariente"
+
+#: ../lib/car.php:50
+msgid "Edit brand"
+msgstr "Editar marca"
+
+#: ../lib/car.php:51
+msgid "Update brand"
+msgstr "Actualizar marca"
+
+#: ../lib/car.php:52
+msgid "Add brand"
+msgstr "Añadir marca"
+
+#: ../lib/car.php:53
+msgid "New brand"
+msgstr "Nueva marca"
+
+#: ../lib/car.php:108 ../lib/car.php:118
+msgid "Car types"
+msgstr "Tipos de coches"
+
+#: ../lib/car.php:109
+msgid "Car type"
+msgstr "Tipo de coche"
+
+#: ../lib/car.php:110
+msgid "Search car type"
+msgstr "Buscar tipo de coche"
+
+#: ../lib/car.php:111
+msgid "All car types"
+msgstr "Todos los tipos de coches"
+
+#: ../lib/car.php:112 ../lib/car.php:113
+msgid "Parent car type"
+msgstr "Pariente del tipo de coche"
+
+#: ../lib/car.php:114
+msgid "Edit car type"
+msgstr ""
+"Editar tipo de \n"
+"coche"
+
+#: ../lib/car.php:115
+msgid "Update car type"
+msgstr "Actualizar tipo de coche"
+
+#: ../lib/car.php:116
+msgid "Add car type"
+msgstr "Añadir nuevo tipo de coche"
+
+#: ../lib/car.php:117
+msgid "New car type"
+msgstr "Nuevo tipo de coche"
+
+#: ../lib/car.php:146
+msgid "Electrical range (km)"
+msgstr "Autonomía eléctrica (km)"
+
+#: ../lib/car.php:147
+msgid "Charging time with maximum charging power from 10 to 80% (minutes):"
+msgstr "Tiempo de carga con potencia máxima de carga del 10 al 80% (minutos):"
+
+#: ../lib/car.php:148
+msgid "Acceleration 0–100 km/h (seconds)"
+msgstr "Aceleración de 0 a 100 km/h (segundos)"
+
+#: ../lib/car.php:149
+msgid "Engine power (hp)"
+msgstr "Potencia del motor (CV)"
+
+#: ../lib/car.php:150
+msgid "Power consumption per 100 km (kWh)"
+msgstr "Consumo de energía por 100 km (kWh)"
+
+#: ../lib/car.php:151
+msgid "Video gallery"
+msgstr "Galería de vídeos"
+
+#: ../lib/car.php:152 ../lib/car.php:156
+msgid "Description"
+msgstr "Descripción"
+
+#: ../lib/car.php:153
+msgid "URL Youtube"
+msgstr "URL Youtube"
+
+#: ../lib/car.php:155
+msgid "Photo gallery"
+msgstr "Galería de fotos"
+
+#: ../lib/car.php:157
+msgid "Image"
+msgstr "Imagen"
+
+#: ../lib/car.php:166
+msgid "Car Data"
+msgstr "Datos del coche"
+
+#: ../lib/car.php:178
+msgid "Type"
+msgstr "Tipo"
+
+#: ../lib/car.php:216 ../lib/car.php:247
+msgid "Show all"
+msgstr "Mostrar todos"
+
+#: ../lib/custom_posts.php:29
+msgid "View file"
+msgstr "Ver archivo"
+
+#: ../lib/custom_posts.php:32 ../lib/custom_posts.php:178
+msgid "Add file"
+msgstr "Añadir archivo"
+
+#: ../lib/custom_posts.php:84
+msgid "Drag and drop"
+msgstr "Arrastrar y soltar"
+
+#: ../lib/custom_posts.php:109
+msgid "Write here the location"
+msgstr "Escribe aquí la localización"
+
+#: ../lib/custom_posts.php:110
+msgid "Search location"
+msgstr "Buscar localización"
+
+#: ../lib/custom_posts.php:155
+msgid "Add image"
+msgstr "Añadir imagen"
+
+#: ../wp-prueba-un-electrico.php:236
+msgid "Try it"
+msgstr "Probar"
+
+#: ../wp-prueba-un-electrico.php:241
+msgid "Sorry, there are no results for this search."
+msgstr "Lo sentimos, no hay resultados para esta búsqueda."
+
+#: ../wp-prueba-un-electrico.php:447
+#, php-format
+msgid "de %s"
+msgstr "%s"
+
+#: ../wp-prueba-un-electrico.php:450 ../wp-prueba-un-electrico.php:456
+#, php-format
+msgid "de tipo %s"
+msgstr "type %s"
+
+#~ msgid "Range (km)"
+#~ msgstr "Autonomía (km)"
+
+#~ msgid "Power (CV)"
+#~ msgstr "Potencia (CV)"
+
+#~ msgid "Recharge time (in minutes)"
+#~ msgstr "Tiempo de recarga (en minutos)"
